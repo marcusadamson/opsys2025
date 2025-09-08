@@ -18,16 +18,9 @@ Praktikumi käigus tegin järgnevad sammud:
 2) VPN-i seadistamine
 
 Allpool on minu tehtud töö tõestus:
+<img width="1440" height="900" alt="Praktikum 1- pilt 1" src="https://github.com/user-attachments/assets/17133dee-616a-4ba9-93af-f9e831f404fe" />
 
-### Virtuaalmasina seadistus
-![Virtuaalmasina seadistus](Praktikum 1- pilt 1.png)  
-*Ekraanipilt VirtualBoxi seadistustest ja Windows 11 installeerimisest.*
-
-### Windows 11 kohandamine
-![Windows 11 kohandamine](Praktikum 1-pilt 2.png)  
-*Ekraanipilt Windows 11 kohandatud keskkonnast pärast praktikumit.*
-
-
+<img width="1440" height="900" alt="Praktikum 1-pilt 2" src="https://github.com/user-attachments/assets/8f471261-5500-4907-8820-939ebc874af7" />
 
 **Isiklik kommentaar:**  
 Praktikum oli väga kasulik. Sain teada kuidas VM-i paigaldada ja seal tegeleda.
