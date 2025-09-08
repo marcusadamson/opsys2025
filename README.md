@@ -2,7 +2,7 @@
 
 **Kursus:** Operatsioonisüsteemid  
 **Praktikumi number:** 1  
-**Töö tegemise aeg:** Ligikaudu 4 
+**Töö tegemise aeg:** Ligikaudu 4 tundi
 
 See oli esimene praktikum operatsioonisüsteemis, kus pidi paigaldama VirtualBox ja sinna omakorda Windows.
 
