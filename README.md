@@ -27,7 +27,7 @@ Allpool on minu tehtud töö tõestus:
 ![Windows 11 kohandamine](Praktikum 1-pilt 2.png)  
 *Ekraanipilt Windows 11 kohandatud keskkonnast pärast praktikumit.*
 
----
+
 
 **Isiklik kommentaar:**  
-Praktikum oli alguses keeruline, kuid samal ajal väga õpetlik. Virtuaalmasina loomine ja Windows 11 seadistamine aitasid mõista operatsioonisüsteemi toimimist ja keskkonna kohandamise põhimõtteid. Olen rahul, et lõpuks kõik õnnestus ja sain vajalikud teadmised kätte.
+Praktikum oli väga kasulik. Sain teada kuidas VM-i paigaldada ja seal tegeleda.
