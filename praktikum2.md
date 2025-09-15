@@ -1,4 +1,4 @@
-**Praktikum 2**
+# Praktikum 2 aruanne
 
 Praktikumis puutusin esimest korda kokku Linuxi kasutamisega Ubuntus. Sai seadistatud ja proovitud kõik ka sülearvutis. Praktikumi ülesandeks oli aga lahendada ära ülesanded Linuxi käsurea kohta veebis, mille kohta toon ma ka kontrollitava ekraanipildi. 
 
