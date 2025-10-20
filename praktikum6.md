@@ -43,7 +43,7 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
  
   *Sõnum tekkis, sest liigutasin hiirt programmiaknas.*
   
-* 81984 tähendab kaua programm töötas enne tegevust.
+* 31984 tähendab kaua programm töötas enne tegevust.
  * 512- sõnumi ID
 * 144-Wparam, ütleb mis nupud olid liigutuse ajal all hoitud.
  * WM_MOUSEMOVE - teate nimi, mis tähendab hiire liikumist aknas.
