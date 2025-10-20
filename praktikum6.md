@@ -1,13 +1,15 @@
 # Praktikum 6 aruanne
 
-Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid". Praktikumis õppisin ma rohkem protsesside signaalide ja nende sisendite ja väljundite koht, näiteks kuidas neid lihtsamalt välja kutsuda ja kuidas OS räägib rakendustega.
+Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid". Praktikumis õppisin ma rohkem protsesside signaalide, nende sisendite ja väljundite koht, näiteks kuidas neid neile saata erinevaid signaale ja kuidas modifitseerida väljundeid.
 
 ***Ülesanded***
 
 
 **Ülesanne 1**
 *Käivita gedit käsurealt, nüüd peata programmi töö ajutiselt klahvikombinatsiooniga CTRL+Z, veendu, et gediti aken on hangunud, seejärel saada talle SIGCONT-signaal ning veendu, et gediti aken toimib jälle. Pane oma aruandesse ekraanitõmmis käskude käivitamisest oma terminaliaknas.*
+
 **Vastus**
+
 <img width="1440" height="900" alt="ulesanne1-6" src="https://github.com/user-attachments/assets/fb07023b-5fbb-4149-be77-d79d9e0f689c" />
 
 **Ülesanne 2**
