@@ -38,6 +38,7 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
  **Vastus**
  Valisin kaks protsessile laekunut sõnumit:
  **31984;512;WM_MOUSEMOVE;144;1638478**
+ 
  *Sõnum tekkis, sest liigutasin hiirt programmiaknas.*
 * 81984 tähendab kaua programm töötas enne tegevust.
  *512- sõnumi ID
@@ -48,6 +49,7 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
 
 
  **73010;274;WM_SYSCOMMAND;61472;65552**
+ 
  *Sõnum tuli pärast akna minimeerimist.*
  * 73010 tähendab kaua programm töötas enne tegevust.
  * 274 - sõnumi ID
