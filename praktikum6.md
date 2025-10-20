@@ -3,6 +3,8 @@
 Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid". Praktikumis õppisin ma rohkem protsesside signaalide ja nende sisendite ja väljundite koht, näiteks kuidas neid lihtsamalt välja kutsuda ja kuidas OS räägib rakendustega.
 
 ***Ülesanded***
+
+
 **Ülesanne 1**
 *Käivita gedit käsurealt, nüüd peata programmi töö ajutiselt klahvikombinatsiooniga CTRL+Z, veendu, et gediti aken on hangunud, seejärel saada talle SIGCONT-signaal ning veendu, et gediti aken toimib jälle. Pane oma aruandesse ekraanitõmmis käskude käivitamisest oma terminaliaknas.*
 **Vastus**
@@ -14,6 +16,18 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
 **Vastus**
 ![ulesanne_2-6](https://github.com/user-attachments/assets/a95fa4f9-6856-48f8-8eb8-08fbbf621eef)
 
+**Ülesanne 3**
+*Koosta ja lisa aruandesse käsujada, mis kuvab (modifitseerib) käsu ps -axu | grep daemon väljundi (ehk siis käsurea algus on fikseeritud) nii, et tulemuseks oleksid ainult programminimed koos lisaparameetritega*
+
+**Vastus**
+![ulesanne_3-6](https://github.com/user-attachments/assets/4d6741c7-af5e-4062-9e0f-a600161cc04a)
+
+**Ülesanne 4**
+*Koosta ja lisa aruandesse käsujada (ip a | grep ...| ... | cut ... jne), mis kuvab ekraanile vastuseks ainult arvuti IP-aadressi (enamasti 10.0.2.15) ip a-käsu väljundi põhjal.*
+
+**Vastus**
+![ulesanne_4-6](https://github.com/user-attachments/assets/f37fc9b9-a538-4a92-a6c0-99604ea1376a)
+
 
 **Ülesanne 5**
 
@@ -23,5 +37,7 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
  Valisin kaks protsessile laekunut sõnumit:
  31984;512;WM_MOUSEMOVE;144;1638478  --------- Tekkis, sest liigutasin hiirt programmiaknas. 81984 tähendab kaua programm töötas enne tegevust, 512- sõnumi ID, 144-Wparam, ütleb mis nupud olid liigutuse ajal all hoitud, WM_MOUSEMOVE - teate nimi, mis tähendab hiire liikumist aknas, 1638478 - lParam, sisaldab hiire kursiori x ja y kordinaate.https://learn.microsoft.com/en-us/windows/win32/inputdev/wm-mousemove
  73010;274;WM_SYSCOMMAND;61472;65552  --------- 73010 tähendab kaua programm töötas enne tegevust, 274-sõnumi ID, WM_SYSCOMMAND- süsteemse tegevuse teade, 61472- Wparam, käsu kood, mis tähendab akna minimeerimist, 65552-lparam, hiirekursori kordinaadid x y, kust käsk tuli.
+
+ # Lõpp
 
  
