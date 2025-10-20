@@ -36,7 +36,9 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
  *Käivitage näidisprogramm WinTeated.exe ja tehke avanenud aknas erinevaid eriliigilisi tegevusi. Pange seejärel protsess kinni. Vaadake teatedOut.txt sisse ja tutvuge sõnumitega, mis Windows on saatnud antud protsessile. Valige juhuslikult 2 erinevat protsessile laekunud sõnumit ja otsige Interneti abiga ID-le vastav kirjeldus. Vähemalt 1 olgu selline, kus on parameetrid "wParam" ja/või "lParam" mitte nullid. Kirjeldage ja esitage aruandesse, mida kumbki sõnum ja parameetrid tähendavad (seehulgas mis tegevuse peale vastav sõnum saadeti protsessile). Proovige tekitada vähemalt 1 sõnum, mida pole tõlketabelis (failis teatedOut.txt on nimeks "???") ja ID on väiksem kui 45000. Millise(d) suutsite tekitada? Lisage ka lingid infoallikatele.*
 
  **Vastus**
+ 
  Valisin kaks protsessile laekunut sõnumit:
+ 
  **31984;512;WM_MOUSEMOVE;144;1638478**
  
   *Sõnum tekkis, sest liigutasin hiirt programmiaknas.*
