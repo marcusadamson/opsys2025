@@ -37,11 +37,23 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
 
  **Vastus**
  Valisin kaks protsessile laekunut sõnumit:
- 31984;512;WM_MOUSEMOVE;144;1638478  --------- Tekkis, sest liigutasin hiirt programmiaknas. 81984 tähendab kaua programm töötas enne tegevust, 512- sõnumi ID, 144-Wparam, ütleb mis nupud olid liigutuse ajal all hoitud, WM_MOUSEMOVE - teate nimi, mis tähendab hiire liikumist aknas, 1638478 - lParam, sisaldab hiire kursiori x ja y kordinaate. 
+ **31984;512;WM_MOUSEMOVE;144;1638478**
+ *Sõnum tekkis, sest liigutasin hiirt programmiaknas.*
+* 81984 tähendab kaua programm töötas enne tegevust.
+ *512- sõnumi ID
+* 144-Wparam, ütleb mis nupud olid liigutuse ajal all hoitud.
+ *WM_MOUSEMOVE - teate nimi, mis tähendab hiire liikumist aknas.
+ *1638478 - lParam, sisaldab hiire kursiori x ja y kordinaate. 
  **Link**   https://learn.microsoft.com/en-us/windows/win32/inputdev/wm-mousemove
 
 
- 73010;274;WM_SYSCOMMAND;61472;65552  --------- 73010 tähendab kaua programm töötas enne tegevust, 274-sõnumi ID, WM_SYSCOMMAND- süsteemse tegevuse teade, 61472- Wparam, käsu kood, mis tähendab akna minimeerimist, 65552-lparam, hiirekursori kordinaadid x y, kust käsk tuli.
+ **73010;274;WM_SYSCOMMAND;61472;65552**
+ *Sõnum tuli pärast akna minimeerimist.*
+ * 73010 tähendab kaua programm töötas enne tegevust.
+ * 274 - sõnumi ID
+ *  WM_SYSCOMMAND- süsteemse tegevuse teade.
+ * 61472- Wparam, käsu kood, mis tähendab akna minimeerimist.
+ *  65552-LParam, hiirekursori kordinaadid x y, kust käsk tuli.
  **Link** https://learn.microsoft.com/en-us/windows/win32/menurc/wm-syscommand
 
  # Lõpp
