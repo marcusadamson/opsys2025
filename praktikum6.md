@@ -39,12 +39,14 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
  Valisin kaks protsessile laekunut sõnumit:
  **31984;512;WM_MOUSEMOVE;144;1638478**
  
- *Sõnum tekkis, sest liigutasin hiirt programmiaknas.*
+  *Sõnum tekkis, sest liigutasin hiirt programmiaknas.*
+  
 * 81984 tähendab kaua programm töötas enne tegevust.
- *512- sõnumi ID
+ * 512- sõnumi ID
 * 144-Wparam, ütleb mis nupud olid liigutuse ajal all hoitud.
- *WM_MOUSEMOVE - teate nimi, mis tähendab hiire liikumist aknas.
- *1638478 - lParam, sisaldab hiire kursiori x ja y kordinaate. 
+ * WM_MOUSEMOVE - teate nimi, mis tähendab hiire liikumist aknas.
+ * 1638478 - lParam, sisaldab hiire kursiori x ja y kordinaate.
+   
  **Link**   https://learn.microsoft.com/en-us/windows/win32/inputdev/wm-mousemove
 
 
@@ -56,6 +58,7 @@ Kuuenda praktikumi ülesanne oli:  "Protsessi signaalid, sisendid ja väljundid"
  *  WM_SYSCOMMAND- süsteemse tegevuse teade.
  * 61472- Wparam, käsu kood, mis tähendab akna minimeerimist.
  *  65552-LParam, hiirekursori kordinaadid x y, kust käsk tuli.
+   
  **Link** https://learn.microsoft.com/en-us/windows/win32/menurc/wm-syscommand
 
  # Lõpp
