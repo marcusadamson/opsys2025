@@ -18,7 +18,7 @@ Erinevused GPTl ja MBR-il
 
 3) GPT salvestab partitsioonitabeli metaandmed nii ketta algusesse kui lõppu, pakkudes varukoopiat ja suuremat tõrketaluvust.
 
-4)Igal partitsioonil GPT-l on unikaalne GUID, mis välistab konfliktid ja teeb partitsioonide haldamise automaatsemaks. MRB-l aga pole.
+4) Igal partitsioonil GPT-l on unikaalne GUID, mis välistab konfliktid ja teeb partitsioonide haldamise automaatsemaks. MRB-l aga pole.
 
 
 3.  *Lisage link https://kodu.ut.ee/~TÜ_kasutajatunus/opsys/hdd.png praktikumi aruandesse tõestuseks, et olete ülesande TÜ võrguketta haakimine Windowsis edukalt lahendanud.*
