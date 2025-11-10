@@ -25,6 +25,7 @@ Thunderbird on Mozilla loodud e-posti klient ja kuna mina kasutan e-posti veebib
 Ülesanne 4: Tehke kuvatõmmis "dir" käsust ja oma valitud EXE-faili käivitamisest, et oleks näha programmi käivitumine (sh ei ole järgmisel real veateadet vmt). (teema Windows keskkonnamuutujad)
 
 *Vastus*
+
 <img width="858" height="520" alt="image" src="https://github.com/user-attachments/assets/ab34babf-8afa-4ed1-af83-82e9886b405b" />
 
 
