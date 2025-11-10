@@ -1,6 +1,8 @@
 # Praktikum 9- Teenused ja optimeerimine
 
-**Selles praktikumis õppisin ma rohkem keskkonnamuutujatest, süsteemi optimeerimisest ja erinevatest teenustest ja nende vajalikusest.**
+**Selles praktikumis õppisin ma rohkem keskkonnamuutujatest, süsteemi optimeerimisest ja erinevatest teenustest ja nende vajalikusest. Tööks kulus mul umbes 6 tundi, kuna sattusin tehniliste probleemide otsa**
+
+**Ülesanded**
 
 Ülesanne 1: Sisestage operatsioonisüsteemid Ubuntu 25.04 terminali käsk sudo su ja vajadusel andke käsule lisaks teie kasutaja parool. Nüüd tuvastage käsureal PWD keskkonnamuutuja väärtus ja lisage see aruandesse tekstikujul.
 
